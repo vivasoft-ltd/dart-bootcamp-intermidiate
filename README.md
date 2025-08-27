@@ -89,6 +89,8 @@ the topic.
 **Assigned to:** Mashrafi  
 **Reviewer:** Thasin
 
+- [JSON and Serialization(EN)](./Json%20and%20Serialization/en/json_and_serialization_en.md)]
+- [JSON and Serialization(BN)](./Json%20and%20Serialization/bn/json_and_serialization_bn.md)]
 ---
 
 ### ✅ OOP
