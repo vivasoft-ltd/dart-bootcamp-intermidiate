@@ -24,7 +24,6 @@ the topic.
 **Assigned to:** Al Amin  
 **Reviewer:** Rohan
 
-
 - [Async Programming (EN)](./Async-Programming/en/async-programming-intermediate-en.md)
 - [Async Programming (BN)](./Async-Programming/bn/async-programming-intermediate-bn.md)
 
@@ -45,6 +44,9 @@ the topic.
 **Assigned to:** Saif  
 **Reviewer:** Thasin
 
+- [Mixin (EN)](./Mixin/en/mixin-intermidiate-en.md)
+- [Mixin (BN)](./Mixin/bn/mixin-intermidiate-bn.md)
+
 ---
 
 ### ✅ Extensions
@@ -58,8 +60,9 @@ the topic.
 
 **Assigned to:** Thasin  
 **Reviewer:** Omar Faruk
- - [Library and Packages (Modular) (EN)](./Library%20and%20Packages%20Modular/en/modular-library-and-packages-en.md)
- - [Library and Packages (Modular) (BN)](./Library%20and%20Packages%20Modular/bn/modular-library-and-packages-bn.md)
+
+- [Library and Packages (Modular) (EN)](./Library%20and%20Packages%20Modular/en/modular-library-and-packages-en.md)
+- [Library and Packages (Modular) (BN)](./Library%20and%20Packages%20Modular/bn/modular-library-and-packages-bn.md)
 
 ---
 
@@ -74,6 +77,9 @@ the topic.
 
 **Assigned to:** Saif  
 **Reviewer:** Bappy
+
+- [Concurrency (BN)](./Concurrency%20and%20Parallelism/bn/concurrency-and-parallelism-intermidiate-bn.md)
+- [Concurrency (EN)](./Concurrency%20and%20Parallelism/en/concurrency-and-parallelism-intermidiate-en.md)
 
 ---
 
@@ -146,3 +152,4 @@ For example:
 
 ```markdown
 - [Generic class and method writing, type constraints](./Generics/README.md)
+```
