@@ -54,6 +54,9 @@ the topic.
 **Assigned to:** Mashrafi  
 **Reviewer:** Al Amin
 
+- [Extensions(EN)](./Extensions/en/extensions_en.md)
+- [Extensions(BN)](./Extensions/bn/extensions_bn.md)
+
 ---
 
 ### ✅ Library and Packages (Modular)
